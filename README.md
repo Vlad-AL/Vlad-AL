@@ -1,4 +1,6 @@
-# Hi there 👋 I'm Vlad
+<p align="center">
+  # Hi there 👋 I'm Vlad
+</p>
 
 <p align="center">
   🇬🇧 English | <a href="./README_RU.md">🇷🇺 Русский</a>
