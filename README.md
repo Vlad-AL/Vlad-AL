@@ -50,7 +50,7 @@ Movie information website built with **HTML**, **CSS**, and **JavaScript**.
 
 🔗 https://github.com/Vlad-AL/mbox
 
-### 🍽 Food Dashboard
+### [🍽 Food Dashboard](https://github.com/Vlad-AL/food-dashboard)
 
 Recipe web application with filtering and API integration.
 
@@ -62,8 +62,6 @@ Recipe web application with filtering and API integration.
 * Responsive interface
 
 **Stack:** React • TypeScript • Node.js • CSS
-
-🔗 https://github.com/Vlad-AL/food-dashboard
 
 ### 🤖 Movie Bot
 
