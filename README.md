@@ -35,7 +35,7 @@ Currently learning **Next.js**, **SSR**, frontend architecture, and testing.
 
 ## 📌 Featured Projects
 
-### 🍿 Movie Box (mbox)
+### [🍿 Movie Box (mbox)](https://github.com/Vlad-AL/mbox)
 
 Movie information website built with **HTML**, **CSS**, and **JavaScript**.
 
@@ -47,8 +47,6 @@ Movie information website built with **HTML**, **CSS**, and **JavaScript**.
 * Vanilla JavaScript
 
 **Stack:** HTML5 • CSS3 • JavaScript
-
-🔗 https://github.com/Vlad-AL/mbox
 
 ### [🍽 Food Dashboard](https://github.com/Vlad-AL/food-dashboard)
 
@@ -63,7 +61,7 @@ Recipe web application with filtering and API integration.
 
 **Stack:** React • TypeScript • Node.js • CSS
 
-### 🤖 Movie Bot
+### [🤖 Movie Bot](https://github.com/Vlad-AL/movie_bot)
 
 Telegram bot for searching movies and TV series.
 
