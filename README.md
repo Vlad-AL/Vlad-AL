@@ -1,10 +1,6 @@
-<p align="center">
-  # Hi there 👋 I'm Vlad
-</p>
+# Hi there 👋 I'm Vlad
 
-<p align="center">
-  🇬🇧 English | <a href="./README_RU.md">🇷🇺 Русский</a>
-</p>
+🇬🇧 English | <a href="./README_RU.md">🇷🇺 Русский</a>
 
 ### Junior Frontend Developer
 
