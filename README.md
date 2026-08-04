@@ -91,4 +91,4 @@ Telegram bot for searching movies and TV series.
 
 * GitHub: https://github.com/Vlad-AL
 * Email: [vladislav.al.555@gmail.com](mailto:vladislav.al.555@gmail.com)
-* Telegram: @[your_username](https://t.me/JustD0nt)
+* Telegram: @[JustD0nt](https://t.me/JustD0nt)
