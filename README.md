@@ -87,20 +87,8 @@ Telegram bot for searching movies and TV series.
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vlad-AL\&show_icons=true\&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vlad-AL\&layout=compact\&theme=github_dark)
-
----
-
 ## 📫 Contacts
 
 * GitHub: https://github.com/Vlad-AL
-* Email: [your_email@example.com](mailto:your_email@example.com)
-* Telegram: @your_username
-
----
-
-> Always learning. Always building. 🚀
+* Email: [vladislav.al.555@gmail.com](mailto:vladislav.al.555@gmail.com)
+* Telegram: @[your_username](https://t.me/JustD0nt)
