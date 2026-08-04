@@ -69,7 +69,7 @@ Telegram bot for searching movies and TV series.
 
 * Search by title
 * Movie information
-* Posters and ratings
+* Сomfortable pagination
 * Telegram Bot API integration
 
 **Stack:** Python • Telegram Bot API
@@ -91,4 +91,4 @@ Telegram bot for searching movies and TV series.
 
 * GitHub: https://github.com/Vlad-AL
 * Email: [vladislav.al.555@gmail.com](mailto:vladislav.al.555@gmail.com)
-* Telegram: @[JustD0nt](https://t.me/JustD0nt)
+* Telegram: [@JustD0nt](https://t.me/JustD0nt)
