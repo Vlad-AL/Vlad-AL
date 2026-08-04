@@ -39,7 +39,7 @@ Currently learning **Next.js**, **SSR**, frontend architecture, and testing.
 
 ### [🍿 Movie Box (mbox)](https://github.com/Vlad-AL/mbox)
 
-Movie information website built with **HTML**, **CSS**, and **JavaScript**.
+Responsive movie catalog built with **HTML**, **CSS**, and **JavaScript**.
 
 **Features**
 
@@ -69,8 +69,8 @@ Telegram bot for searching movies and TV series.
 
 **Features**
 
-* Search by title
-* Movie information
+* Search by title/code/genres
+* Movie/Series information
 * Сomfortable pagination
 * Telegram Bot API integration
 
@@ -80,12 +80,12 @@ Telegram bot for searching movies and TV series.
 
 ## 💼 Experience
 
-* React & TypeScript development
-* REST API integration
-* Commercial freelance experience
-* IT company internship
-* Git Flow & Code Review
-* Responsive web development
+* Built responsive React applications using TypeScript
+* Integrated REST APIs and asynchronous data fetching
+* Developed commercial freelance projects
+* Completed internship in an IT company
+* Worked with Git Flow and Code Reviews
+* Focused on performance and user experience
 
 ---
 
