@@ -2,7 +2,7 @@
 
 🇬🇧 English | <a href="./README_RU.md">🇷🇺 Русский</a>
 
-### Junior Frontend Developer
+### Frontend Developer
 
 Frontend Developer with hands-on experience building web applications using React and TypeScript. I have worked on freelance commercial projects, completed an internship at an IT company, integrated REST APIs, and developed Telegram bots.
 
