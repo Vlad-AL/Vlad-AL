@@ -2,7 +2,7 @@
 
 <a href="./README.md">🇬🇧 English</a> | 🇷🇺 Русский
 
-### Junior Frontend Developer
+### Frontend Developer
 
 Frontend-разработчик с практическим опытом создания веб-приложений на **React** и **TypeScript**. Работал над коммерческими проектами на фрилансе, проходил практику в IT-компании, интегрировал REST API и разрабатывал Telegram-ботов.
 
